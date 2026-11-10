@@ -1,6 +1,6 @@
 # BMF Productivity System
 
-**Notion workspace case study | Real system, synthetic demo records | Public case study prepared November 2026**
+**Notion workspace case study | Real system, synthetic demo records | Public case study **
 
 I designed and use Build My Focus (BMF) as a personal operating system in Notion. Its Control Tower connects goals, actions, notes, daily planning, and weekly review. This repository documents the architecture and shows a public-safe example. The demo records are invented; they are not an export of my private workspace or a downloadable Notion template.
 
@@ -29,7 +29,6 @@ The [data model](data-model.md) describes the public version of this system. The
 | BMF Notes | Captures source, type, topic, tags, and privacy choice | Simplified synthetic records |
 | Daily Dashboards and Weekly Tracking | Supports planning and review | Workflow description only; no usage or outcome metrics claimed |
 
-I verified the structure of these components in my Notion workspace in November 2026. The original build dates and any impact measures require separate records before I would claim them publicly. The GitHub publication date records when this case study was published, not when the Notion system was first built.
 
 ## Design choices
 
@@ -50,7 +49,3 @@ The fictional example in [sample records](sample-records.md) shows a goal, two a
 3. A dashboard and views for the actual daily and weekly decisions.
 4. A test in which a new user captures an item and finds the next action without guidance.
 5. A handoff guide covering maintenance, privacy, and what to change as the workflow evolves.
-
-## Next public iteration
-
-Create a separate Notion demo workspace using only synthetic records, capture screenshots of the demo, and run the walkthrough with a new user. Those are planned additions, not completed deliverables.
